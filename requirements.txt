@@ -3,6 +3,9 @@ pandas
 numpy
 pymongo
 Certifi
+pymongo[srv]==3.11
+pymongo
+
 
 
 ## -e . 
