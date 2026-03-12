@@ -6,4 +6,4 @@ client = MongoClient(uri, tls=True)
 
 client.admin.command("ping")
 
-print("✅ Connected successfully")
+print("connection successful")
